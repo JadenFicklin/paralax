@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div></div>;
+  return <div>paralax</div>;
 }
 
 export default App;
