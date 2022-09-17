@@ -3,7 +3,7 @@ import useScrollPosition from "../hooks/useScrollPosition";
 
 function Home() {
   let scrollPosition = useScrollPosition();
-  console.log(scrollPosition);
+
   return (
     <>
       <div className="home-outer">
