@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.home-outer {
+  width: 100%;
+  height: 400vh;
+  background-image: url(../src/assets/hd-wallpaper-1867616.jpg);
+  background-image: url(../src/assets/antonino-visalli-iI1SSTbW218-unsplash.jpg);
+  background-image: url(../src/assets/paul-berthelon-bravo-BGXhuJIbx78-unsplash.jpg);
+  background-image: url(../src/assets/sky-823624.jpg);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: none;
+}
+.home-mountains {
+  width: 100%;
+  height: 100%;
+  background-image: url(../src/assets/daniel-leone-g30P1zcOzXo-unsplash-removebg.png);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: none;
+  position: fixed;
+  bottom: -200px;
+  z-index: 5;
+}
+
+.home-elk {
+  width: 100%;
+  height: 100%;
+  background-image: url(../src/assets/elk-3350709.png);
+  position: relative;
+  bottom: 100px;
+}
